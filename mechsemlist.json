@@ -1,0 +1,59 @@
+[
+    {
+      "beanchname": "MECHANICAL ENGINEERING",
+      "semdata": [
+        {
+          "id":"1890",
+          "semname":"Sem 3",
+          "labno":"2",
+          "subjno":"6",
+          "subj1":"Engineering Mathematics–III",
+          "subj2":"Materials Science",
+          "subj3":"Basic Thermodynamics",
+          "subj4":"Mechanics of Materials",
+          "subj5":"Metal Casting and Welding\nMachine Tools and Operations",
+          "subj6":"Computer Aided Machine Drawing\nMechanical Measurements and Metrology",
+          "labname1":"Materials Testing Lab\nMechanical Measurements And Metrology Lab",
+          "labname2a":"Foundry And Forging Lab\nMachine Shop",
+          "syllabusscreentype":"SyllabusFile",
+          "syllabusurl": "",
+          "syllabusscreenparams": "",
+          "notesscreentype": "NotesListSubjFile",
+          "notesurl": "",
+          "notesscreenparams": "",
+          "qpscreentype": "QPaperListSubjsFile",
+          "qpurl": "",
+          "qpscreenparams": "",
+          "qbscreentype": "QBankListSubjsFile",
+          "qburl": "",
+          "qbscreenparams": ""
+        },
+        {
+        "id":"2540",
+        "semname":"Sem 4",
+        "labno":"2",
+        "subjno":"6",
+        "subj1":"Engineering Mathematics–4",
+        "subj2":"Kinematics of Machinery",
+        "subj3":"Applied Thermodynamics",
+        "subj4":"Fluid mechanics",
+        "subj5":"Metal Casting and Welding\nMachine Tools and Operations",
+        "subj6":"Computer Aided Machine Drawing\nMechanical Measurement and Metrology",
+        "labname1":"Materials Testing Lab\nMechanical Measurements And Metrology Lab",
+        "labname2":"Foundry And Forging Lab\nMachine Shop",
+        "syllabusscreentype":"SyllabusFile",
+        "syllabusurl":"",
+        "syllabusscreenparams":"",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "",
+        "notesscreenparams": "",
+        "qpscreentype":"QPaperListSubjsFile",
+        "qpurl":"",
+        "qpscreenparams":"",
+        "qbscreentype":"QBankListSubjsFile",
+        "qburl":"",
+        "qbscreenparams":""
+      }
+    ]
+  }
+]
