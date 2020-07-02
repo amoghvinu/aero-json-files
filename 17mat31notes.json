@@ -1,0 +1,26 @@
+[
+  {
+    "branchname": "Aeronoutical Engineering",
+    "semno": "Semester 3",
+    "subjname": "Engineering Mathematics-III",
+    "subjcode": "17MAT31",
+    "notesdata": [
+      {
+        "notesname": "Module1",
+        "notesurl": "",
+        "disabled":"disabled"
+      },
+      {
+        "notesname": "Module2",
+        "notesurl": "",
+        "disabled":"disabled"
+      },
+            {
+        "notesname": "Module3",
+        "notesurl": "",
+        "disabled":"disabled"
+      }
+    ]
+    
+  }
+]
