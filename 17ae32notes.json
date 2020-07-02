@@ -1,0 +1,26 @@
+[
+    {
+      "branchname": "Aeronoutical Engineering",
+      "semno": "Semester 3",
+      "subjname": "Elements of Aeronautics",
+      "subjcode": "17AE32",
+      "notesdata": [
+        {
+          "notesname": "Module1",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+        {
+          "notesname": "Module2",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+              {
+          "notesname": "Module3",
+          "notesurl": "",
+          "disabled":"disabled"
+        }
+      ]
+      
+    }
+  ]
