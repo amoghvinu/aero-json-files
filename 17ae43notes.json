@@ -1,0 +1,26 @@
+[
+    {
+      "branchname": "Aeronoutical Engineering",
+      "semno": "Semester 4",
+      "subjname": "AIRCRAFT PROPULSION",
+      "subjcode": "17AE43",
+      "notesdata": [
+        {
+          "notesname": "Module1",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+        {
+          "notesname": "Module2",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+              {
+          "notesname": "Module3",
+          "notesurl": "",
+          "disabled":"disabled"
+        }
+      ]
+      
+    }
+  ]
