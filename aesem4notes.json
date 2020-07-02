@@ -1,0 +1,39 @@
+[
+  {
+    "branchname": "Aeronoutical Engineering",
+    "semno":"",
+    "valuename" : "notes",
+    "semdata": [
+      {
+        "semno": "Semester 4",
+        "subjdata": [
+          {
+            "id": "2363",
+            "subjname": "Engineering Mathematics-IV",
+            "subjcode": "17MAT41",
+            "notesurl": "https://adityam945.github.io/aero-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17mat41notes.json"
+          },
+          {
+            "id": "2463",
+            "subjname": "AERODYNAMICS-I",
+            "subjcode": "17AE42",
+            "notesurl": "https://adityam945.github.io/aero-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17ae42notes.json"
+          },
+          {
+            "id": "2563",
+            "subjname": "AIRCRAFT PROPULSION",
+            "subjcode": "17AE43",
+            "notesurl": "https://adityam945.github.io/aero-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17ae43notes.json"
+          }
+        ]
+      }
+      
+    ]
+  }
+]
