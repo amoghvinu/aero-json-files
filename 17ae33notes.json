@@ -1,0 +1,27 @@
+[
+    {
+      "branchname": "Aeronoutical Engineering",
+      "semno": "Semester 3",
+      "subjname": "Aerothermodynamics",
+      "subjcode": "17AE33",
+      "notesdata": [
+        {
+          "notesname": "Module1",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+        {
+          "notesname": "Module2",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+              {
+          "notesname": "Module3",
+          "notesurl": "",
+          "disabled":"disabled"
+        }
+      ]
+      
+    }
+  ]
+  
