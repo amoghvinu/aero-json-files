@@ -1,0 +1,59 @@
+[
+  {
+    "beanchname": "AERONAUTICAL ENGINEERING",
+    "semdata": [
+      {
+        "id": "1234",
+        "semname": "Semister 3",
+        "labno": "2",
+        "subjno": "6",
+        "subj1": "Engineering Mathematics-III",
+        "subj2": "Elements of Aeronautics",
+        "subj3": "Aerothermodynamics",
+        "subj4": "Mechanics of Materials",
+        "subj5": "Mechanics of Fluid",
+        "subj6": "Measurement and Metrology",
+        "labname1": "MEASUREMENT AND METROLOGY LAB",
+        "labname2": "MACHINE SHOP LAB",
+        "syllabusscreentype":"SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams": "aesem3syllabus.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/aero-json-files/",
+        "notesscreenparams": "aesem3notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/aero-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/aero-json-files/",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "1334",
+        "semname": "Semister 4",
+        "labno": "2",
+        "subjno": "6",
+        "subj1": "Engineering Mathematics-IV",
+        "subj2": "AERODYNAMICS-I",
+        "subj3": "AIRCRAFT PROPULSION",
+        "subj4": "MECHANISMS AND MACHINE THEORY",
+        "subj5": "AIRCRAFT MATERIAL SCIENCE",
+        "subj6": "TURBOMACHINES",
+        "labname1": "MATERIAL TESTING LAB/MEASUREMENT AND METROLOGY LAB",
+        "labname2": "COMPUTER AIDED AIRCRAFT DRAWING",
+        "syllabusscreentype":"SyllabusFile",
+        "syllabusurl":"https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams":"",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/aero-json-files/",
+        "notesscreenparams": "aesem3notes.json",
+        "qpscreentype":"QPaperListSubjsFile",
+        "qpurl":"https://adityam945.github.io/aero-json-files/",
+        "qpscreenparams":"",
+        "qbscreentype":"QBankListSubjsFile",
+        "qburl":"https://adityam945.github.io/aero-json-files/",
+        "qbscreenparams":""
+      }
+    ]
+  }
+]
