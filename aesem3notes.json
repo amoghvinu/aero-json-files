@@ -1,0 +1,39 @@
+[
+  {
+    "branchname": "Aeronoutical Engineering",
+    "semno":"",
+    "valuename" : "notes",
+    "semdata": [
+      {
+        "semno": "3",
+        "subjdata": [
+          {
+            "id": "1363",
+            "subjname": "Engineering Mathematics-III",
+            "subjcode": "17MAT31",
+            "notesurl": "https://adityam945.github.io/aero-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17mat31notes.json"
+          },
+          {
+            "id": "1463",
+            "subjname": "Elements of Aeronautics",
+            "subjcode": "17AE32",
+            "notesurl": "https://adityam945.github.io/aero-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17ae32notes.json"
+          },
+          {
+            "id": "1563",
+            "subjname": "Aerothermodynamics",
+            "subjcode": "17AE33",
+            "notesurl": "https://adityam945.github.io/aero-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17ae33notes.json"
+          }
+        ]
+      }
+      
+    ]
+  }
+]
