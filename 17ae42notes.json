@@ -1,0 +1,26 @@
+[
+    {
+      "branchname": "Aeronoutical Engineering",
+      "semno": "Semester 4",
+      "subjname": "AERODYNAMICS-I",
+      "subjcode": "17AE42",
+      "notesdata": [
+        {
+          "notesname": "Module1",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+        {
+          "notesname": "Module2",
+          "notesurl": "",
+          "disabled":"disabled"
+        },
+              {
+          "notesname": "Module3",
+          "notesurl": "",
+          "disabled":"disabled"
+        }
+      ]
+      
+    }
+  ]
