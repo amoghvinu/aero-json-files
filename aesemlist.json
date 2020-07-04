@@ -17,7 +17,7 @@
         "labname2": "MACHINE SHOP LAB",
         "syllabusscreentype":"SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/aero-json-files/",
-        "syllabusscreenparams": "aesem3syllabus.json",
+        "syllabusscreenparams": "aesem3subjlist.json",
         "notesscreentype": "NotesListSubjFile",
         "notesurl": "https://adityam945.github.io/aero-json-files/",
         "notesscreenparams": "aesem3notes.json",
