@@ -1,0 +1,52 @@
+[
+  {
+    "semno": "Semester 3",
+    "branchname": "Aeronoutic Engineering",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "Engineering Mathematics-III",
+        "subjcode": "17MAT31",
+        "subjparams": "17mat31syllabus.json"
+      },
+      {
+        "subj": "Elements of Aeronautics",
+        "subjcode": "17AE32",
+        "subjparams": "17ae32syllabus.json"
+      },
+      {
+        "subj": "Aerothermodynamics",
+        "subjcode": "17AE33",
+        "subjparams": "17ae33syllabus.json"
+      },
+      {
+        "subj": "Mechanics of Materials",
+        "subjcode": "17AE34",
+        "subjparams": "17ae34syllabus.json"
+      },
+      {
+        "subj": "Mechanics of Fluid",
+        "subjcode": "17AE35",
+        "subjparams": "17ae35syllabus.json"
+      },
+      {
+        "subj": "Measurement and Metrology",
+        "subjcode": "17AE36",
+        "subjparams": "17ae36syllabus.json"
+      },
+      {
+        "subj": "MEASUREMENT AND METROLOGY LAB",
+        "subjcode": "17AEL37A",
+        "subjparams": ""
+      },
+      {
+        "subj": "MACHINE SHOP LAB ",
+        "subjcode": "17AEL38",
+        "subjparams": ""
+      }
+    ]
+  }
+]
