@@ -1,0 +1,52 @@
+[
+    {
+      "semno": "Semester 4",
+      "branchname": "Aeronoutic Engineering",
+      "subjno": "6",
+      "labno": "2",
+      "screenname": "SubjectDetails",
+      "url": "https://adityam945.github.io/cse-json-files/",
+      "subjdata": [
+        {
+          "subj": "Engineering Mathematics-IV",
+          "subjcode": "17MAT41",
+          "subjparams": "17mat31syllabus.json"
+        },
+        {
+          "subj": "Aerodynamics-I",
+          "subcode": "17CS42",
+          "subjparams": "17cs32syllabus.json"
+        },
+        {
+          "subj": "Aircraft Propulsion",
+          "subcode": "17CS43",
+          "subjparams": "17cs33syllabus.json"
+        },
+        {
+          "subj": "Mechanisms and Machine Theory",
+          "subcode": "17CS44",
+          "subjparams": "17cs34syllabus.json"
+        },
+        {
+          "subj": "Aircraft Material Science",
+          "subcode": "17CS45",
+          "subjparams": "17cs35syllabus.json"
+        },
+        {
+          "subj": "Turbomachines",
+          "subcode": "17CS46",
+          "subjparams": "17cs36syllabus.json"
+        },
+        {
+          "subj": "MEASUREMENT AND METROLOGY LAB",
+          "subjcode": "17AEL47A",
+          "subjparams": ""
+        },
+        {
+          "subj": "COMPUTER AIDED AIRCRAFT DRAWING",
+          "subjcode": "17AEL48B",
+          "subjparams": ""
+        }
+      ]
+    }
+  ]
