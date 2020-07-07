@@ -4,7 +4,7 @@
     "semdata": [
       {
         "id": "1234",
-        "semname": "Semister 3",
+        "semname": "Semester 3",
         "labno": "2",
         "subjno": "6",
         "subj1": "Engineering Mathematics-III",
@@ -30,7 +30,7 @@
       },
       {
         "id": "1334",
-        "semname": "Semister 4",
+        "semname": "Semester 4",
         "labno": "2",
         "subjno": "6",
         "subj1": "Engineering Mathematics-IV",
