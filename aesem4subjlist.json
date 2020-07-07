@@ -10,32 +10,32 @@
         {
           "subj": "Engineering Mathematics-IV",
           "subjcode": "17MAT41",
-          "subjparams": "17mat31syllabus.json"
+          "subjparams": "17mat41syllabus.json"
         },
         {
           "subj": "Aerodynamics-I",
-          "subcode": "17CS42",
-          "subjparams": "17cs32syllabus.json"
+          "subcode": "17AE42",
+          "subjparams": "17ae42syllabus.json"
         },
         {
           "subj": "Aircraft Propulsion",
-          "subcode": "17CS43",
-          "subjparams": "17cs33syllabus.json"
+          "subcode": "17AE43",
+          "subjparams": "17ae43syllabus.json"
         },
         {
           "subj": "Mechanisms and Machine Theory",
-          "subcode": "17CS44",
-          "subjparams": "17cs34syllabus.json"
+          "subcode": "17AE44",
+          "subjparams": "17ae44syllabus.json"
         },
         {
           "subj": "Aircraft Material Science",
-          "subcode": "17CS45",
-          "subjparams": "17cs35syllabus.json"
+          "subcode": "17AE45",
+          "subjparams": "17ae45syllabus.json"
         },
         {
           "subj": "Turbomachines",
-          "subcode": "17CS46",
-          "subjparams": "17cs36syllabus.json"
+          "subcode": "17AE46",
+          "subjparams": "17ae46syllabus.json"
         },
         {
           "subj": "MEASUREMENT AND METROLOGY LAB",
