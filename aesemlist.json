@@ -43,7 +43,7 @@
         "labname2": "COMPUTER AIDED AIRCRAFT DRAWING",
         "syllabusscreentype":"SyllabusFile",
         "syllabusurl":"https://adityam945.github.io/aero-json-files/",
-        "syllabusscreenparams":"",
+        "syllabusscreenparams":"aesem4subjlist.json",
         "notesscreentype": "NotesListSubjFile",
         "notesurl": "https://adityam945.github.io/aero-json-files/",
         "notesscreenparams": "aesem4notes.json",
